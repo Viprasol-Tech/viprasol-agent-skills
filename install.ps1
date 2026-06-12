@@ -25,6 +25,7 @@ $skills = [ordered]@{
     "smart-contract-audit"         = "smart-contract-audit"
     "tokenomics-review"            = "tokenomics-review"
     "defi-protocol-review"         = "defi-protocol-review"
+    "wallet-security-review"       = "wallet-security-review"
     "trading-strategy-review"      = "trading-strategy-review"
     "financial-statement-analysis" = "financial-statement-analysis"
     "earnings-call-analyzer"       = "earnings-call-analyzer"

@@ -16,6 +16,7 @@ REPOS = [
     "smart-contract-audit",
     "tokenomics-review",
     "defi-protocol-review",
+    "wallet-security-review",
     "trading-strategy-review",
     "financial-statement-analysis",
     "earnings-call-analyzer",

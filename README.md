@@ -8,7 +8,7 @@ _Built and maintained by [Viprasol Tech](https://viprasol.com) — Fintech Exper
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-blueviolet.svg)](https://agentskills.io)
-[![Skills](https://img.shields.io/badge/skills-8-green.svg)](#-the-skills)
+[![Skills](https://img.shields.io/badge/skills-9-green.svg)](#-the-skills)
 [![Works with](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20·%20Cursor-26%2B%20tools-black.svg)](#-install)
 [![Telegram](https://img.shields.io/badge/Telegram-help-26A5E4.svg)](https://t.me/viprasol_help)
 
@@ -28,6 +28,7 @@ Most Agent Skill collections are general-purpose. **This one is built for money*
 | [**smart-contract-audit**](https://github.com/Viprasol-Tech/smart-contract-audit) | Solidity/EVM security audit — 18 vulnerability classes (reentrancy, access control, oracle manipulation…), exploit scenarios + fixes. Grounded in the SWC Registry. |
 | [**tokenomics-review**](https://github.com/Viprasol-Tech/tokenomics-review) | Token economics red-flag review — supply/FDV, insider vesting, unlock overhang, liquidity, rug vectors → risk scorecard. |
 | [**defi-protocol-review**](https://github.com/Viprasol-Tech/defi-protocol-review) | DeFi protocol due-diligence — admin keys, audits, yield sustainability, TVL & oracle risk → risk matrix + verdict. |
+| [**wallet-security-review**](https://github.com/Viprasol-Tech/wallet-security-review) | Before you sign — review a signature/approval request or audit a wallet for drainer & phishing risk (Permit2, setApprovalForAll, eth_sign, EIP-7702). |
 
 ### 📈 Trading & markets
 | Skill | What it does |
