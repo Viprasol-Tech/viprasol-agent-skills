@@ -34,6 +34,7 @@ $skills = [ordered]@{
     "earnings-call-analyzer"       = "earnings-call-analyzer"
     "invoice-extractor"            = "invoice-extractor"
     "code-review-skill"            = "code-review"
+    "api-security-review"          = "api-security-review"
 }
 
 if (-not (Get-Command git -ErrorAction SilentlyContinue)) {

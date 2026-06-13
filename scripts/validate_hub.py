@@ -25,6 +25,7 @@ REPOS = [
     "earnings-call-analyzer",
     "invoice-extractor",
     "code-review-skill",
+    "api-security-review",
 ]
 
 
