@@ -26,6 +26,7 @@ $skills = [ordered]@{
     "tokenomics-review"            = "tokenomics-review"
     "defi-protocol-review"         = "defi-protocol-review"
     "wallet-security-review"       = "wallet-security-review"
+    "onchain-forensics"            = "onchain-forensics"
     "trading-strategy-review"      = "trading-strategy-review"
     "financial-statement-analysis" = "financial-statement-analysis"
     "earnings-call-analyzer"       = "earnings-call-analyzer"

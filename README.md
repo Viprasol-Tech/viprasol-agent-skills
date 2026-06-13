@@ -8,7 +8,7 @@ _Built and maintained by [Viprasol Tech](https://viprasol.com) — Fintech Exper
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-blueviolet.svg)](https://agentskills.io)
-[![Skills](https://img.shields.io/badge/skills-9-green.svg)](#-the-skills)
+[![Skills](https://img.shields.io/badge/skills-10-green.svg)](#-the-skills)
 [![Works with](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20·%20Cursor-26%2B%20tools-black.svg)](#-install)
 [![Telegram](https://img.shields.io/badge/Telegram-help-26A5E4.svg)](https://t.me/viprasol_help)
 
@@ -29,6 +29,7 @@ Most Agent Skill collections are general-purpose. **This one is built for money*
 | [**tokenomics-review**](https://github.com/Viprasol-Tech/tokenomics-review) | Token economics red-flag review — supply/FDV, insider vesting, unlock overhang, liquidity, rug vectors → risk scorecard. |
 | [**defi-protocol-review**](https://github.com/Viprasol-Tech/defi-protocol-review) | DeFi protocol due-diligence — admin keys, audits, yield sustainability, TVL & oracle risk → risk matrix + verdict. |
 | [**wallet-security-review**](https://github.com/Viprasol-Tech/wallet-security-review) | Before you sign — review a signature/approval request or audit a wallet for drainer & phishing risk (Permit2, setApprovalForAll, eth_sign, EIP-7702). |
+| [**onchain-forensics**](https://github.com/Viprasol-Tech/onchain-forensics) | Trace funds across addresses & chains — MIH/change-address/FIFO mixer heuristics, bridge & DEX hop tracing, OFAC checks, Daubert-grade evidence notes. |
 
 ### 📈 Trading & markets
 | Skill | What it does |

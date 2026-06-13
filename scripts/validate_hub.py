@@ -17,6 +17,7 @@ REPOS = [
     "tokenomics-review",
     "defi-protocol-review",
     "wallet-security-review",
+    "onchain-forensics",
     "trading-strategy-review",
     "financial-statement-analysis",
     "earnings-call-analyzer",
