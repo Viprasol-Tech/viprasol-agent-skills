@@ -8,7 +8,7 @@ _Built and maintained by [Viprasol Tech](https://viprasol.com) — Fintech Exper
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-blueviolet.svg)](https://agentskills.io)
-[![Skills](https://img.shields.io/badge/skills-10-green.svg)](#-the-skills)
+[![Skills](https://img.shields.io/badge/skills-11-green.svg)](#-the-skills)
 [![Works with](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20·%20Cursor-26%2B%20tools-black.svg)](#-install)
 [![Telegram](https://img.shields.io/badge/Telegram-help-26A5E4.svg)](https://t.me/viprasol_help)
 
@@ -35,6 +35,7 @@ Most Agent Skill collections are general-purpose. **This one is built for money*
 | Skill | What it does |
 |-------|--------------|
 | [**trading-strategy-review**](https://github.com/Viprasol-Tech/trading-strategy-review) | Vet a strategy/backtest for the failure modes that blow up live — look-ahead bias, overfitting, survivorship, slippage, risk-of-ruin. Grounded in PBO & Deflated Sharpe. |
+| [**options-strategy-analyzer**](https://github.com/Viprasol-Tech/options-strategy-analyzer) | Vet an options trade — pick the right structure for your view, compute Max P/L, break-evens, Greeks, IV-rank context & PoP-vs-EV with a risk-management plan. |
 
 ### 💼 Finance & accounting
 | Skill | What it does |
