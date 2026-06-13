@@ -29,6 +29,7 @@ $skills = [ordered]@{
     "onchain-forensics"            = "onchain-forensics"
     "trading-strategy-review"      = "trading-strategy-review"
     "options-strategy-analyzer"    = "options-strategy-analyzer"
+    "risk-management-review"       = "risk-management-review"
     "financial-statement-analysis" = "financial-statement-analysis"
     "earnings-call-analyzer"       = "earnings-call-analyzer"
     "invoice-extractor"            = "invoice-extractor"

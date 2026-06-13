@@ -20,6 +20,7 @@ REPOS = [
     "onchain-forensics",
     "trading-strategy-review",
     "options-strategy-analyzer",
+    "risk-management-review",
     "financial-statement-analysis",
     "earnings-call-analyzer",
     "invoice-extractor",
