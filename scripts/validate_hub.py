@@ -26,6 +26,7 @@ REPOS = [
     "invoice-extractor",
     "code-review-skill",
     "api-security-review",
+    "sql-optimizer",
 ]
 
 

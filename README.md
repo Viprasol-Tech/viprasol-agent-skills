@@ -8,7 +8,7 @@ _Built and maintained by [Viprasol Tech](https://viprasol.com) — Fintech Exper
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-blueviolet.svg)](https://agentskills.io)
-[![Skills](https://img.shields.io/badge/skills-13-green.svg)](#-the-skills)
+[![Skills](https://img.shields.io/badge/skills-14-green.svg)](#-the-skills)
 [![Works with](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20·%20Cursor-26%2B%20tools-black.svg)](#-install)
 [![Telegram](https://img.shields.io/badge/Telegram-help-26A5E4.svg)](https://t.me/viprasol_help)
 
@@ -50,6 +50,7 @@ Most Agent Skill collections are general-purpose. **This one is built for money*
 |-------|--------------|
 | [**code-review-skill**](https://github.com/Viprasol-Tech/code-review-skill) | Rigorous, prioritized code review — correctness → security (OWASP/CWE) → performance → tests, with specific fixes, not nitpicks. |
 | [**api-security-review**](https://github.com/Viprasol-Tech/api-security-review) | Review REST/GraphQL APIs against the OWASP API Top 10 2023 — BOLA, broken auth, mass assignment, SSRF, JWT/OAuth/CORS pitfalls — with curl PoCs and code-level fixes. |
+| [**sql-optimizer**](https://github.com/Viprasol-Tech/sql-optimizer) | Make slow SQL fast — read EXPLAIN ANALYZE, propose composite/covering/partial indexes, catch N+1 / OFFSET / LIKE-%prefix, with a re-measure protocol. PG + MySQL. |
 
 ## 🚀 Install
 

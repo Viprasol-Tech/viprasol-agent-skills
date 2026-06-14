@@ -33,6 +33,7 @@ SKILLS=(
   "invoice-extractor:invoice-extractor"
   "code-review-skill:code-review"
   "api-security-review:api-security-review"
+  "sql-optimizer:sql-optimizer"
 )
 
 command -v git >/dev/null 2>&1 || { echo "git is required but not found." >&2; exit 1; }
